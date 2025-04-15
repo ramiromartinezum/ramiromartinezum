@@ -1,2 +1,3 @@
-Soy un colorado que programa. 2do año de Ing Informática en la Universidad de Montevideo en Uruguay.
+Computer science student @ Universidad de Montevideo
 
+Product @ OrderEAT
